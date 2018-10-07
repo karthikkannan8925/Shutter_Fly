@@ -1,4 +1,5 @@
 import json
+#adding comments
 
 with open('C:\Karthik\Spark\Shutter_fly_test\sample_input.txt') as json_file:
     data = json.load(json_file)
